@@ -3,6 +3,7 @@
 <<<<<<< HEAD
   hello....
 
+add txt in master
   from first
 =======
     hi....
