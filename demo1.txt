@@ -1,5 +1,11 @@
 
 
+<<<<<<< HEAD
   hello....
 
   from first
+=======
+    hi....
+
+    from first branch
+>>>>>>> 45c4e0d (again modified)
